@@ -1,9 +1,5 @@
 # TASK 5 SOCIAL ENGINEERING RESEARCH REPORT
 
-**Author:** Jeevika B | **Role:** Security Analyst Intern | **Date:** August 8, 2026
-
----
-
 ## 1. Introduction
 
 Social engineering isn't about breaking into systems—it's about breaking into people's minds. Attackers manipulate human psychology to trick employees into revealing sensitive information or granting access that no firewall would allow.
