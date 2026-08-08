@@ -466,4 +466,5 @@ Patch management cannot prevent every cyber attack, but it can remove many known
 ## AUTHOR
 
 **JEEVIKA B**
+
 **SECURITY ANALYST INTERN**
